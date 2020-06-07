@@ -10,7 +10,7 @@
     "predeploy": "npm run build:prod",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "http://a-m-dev.github.io/api-testing-client",
+  "homepage": "http://a-m-dev.github.io/api-testing-client/index.html",
   "author": "",
   "license": "ISC",
   "devDependencies": {

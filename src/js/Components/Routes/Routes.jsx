@@ -10,7 +10,7 @@ class Routes extends React.Component {
         </header>
 
         <section>
-          <Link to="/api-testing-client">Home</Link>
+          <Link to="/">Home_1</Link>
           <Link to="/routes">Routes</Link>
           <Link to="/context">Context</Link>
         </section>

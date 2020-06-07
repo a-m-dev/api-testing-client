@@ -6,7 +6,7 @@ class Nav extends React.Component {
     return (
       <nav className="nav">
         <NavLink
-          to="/api-testing-client"
+          to="/"
           exact
           className="nav__link"
           activeStyle={{ fontWeight: "bold" }}

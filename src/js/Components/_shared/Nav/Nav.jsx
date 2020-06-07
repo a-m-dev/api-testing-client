@@ -11,7 +11,7 @@ class Nav extends React.Component {
           className="nav__link"
           activeStyle={{ fontWeight: "bold" }}
         >
-          Home
+          Home_1
         </NavLink>
 
         <span className="nav__seperator">||</span>
